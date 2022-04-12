@@ -1,0 +1,9 @@
+https://opensky-network.org/api
+https://opensky-network.org/api/states/all --for all operations
+https://opensky-network.org/api/states/flights/all --for time interval
+https://opensky-network.org/api/flights/aircraft --for aircrafts
+https://opensky-network.org/api/flights/arrival --for arrivals
+https://opensky-network.org/api/flights/departure --for departure
+https://opensky-network.org/api/tracks --for departure
+
+https://sammie_codes:Jennifer001@opensky-network.org/api/flights/arrival

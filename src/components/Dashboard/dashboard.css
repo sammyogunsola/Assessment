@@ -1,0 +1,39 @@
+.navbar ul li {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.dash-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 50px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.dash-container ul li{
+    list-style: none;
+    padding: 20px;
+    margin-top: 20px;
+    border-bottom: 2px solid #fff;
+}
+
+.airport {
+    width: 20%;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+}
+
+.arrival {
+    width: 20%;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+}
